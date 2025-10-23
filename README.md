@@ -10,7 +10,7 @@ This project demonstrates a data synchronization workflow between Shopify and a 
 
 ### Why REST over GraphQL?
 
-We selected the Shopify REST API for the following reasons:
+I selected the Shopify REST API for the following reasons:
 
 **Simplicity** - REST is more straightforward for this use case of product retrieval. A single GET request returns all needed data without query construction overhead.
 
@@ -18,7 +18,7 @@ We selected the Shopify REST API for the following reasons:
 
 **One-off Integration** - For a single sync operation, REST requires minimal setup compared to GraphQL, which is optimized for complex, multi-resource queries.
 
-**Maintainability** - Junior developers can understand and maintain REST calls more easily than GraphQL queries.
+**Maintainability** - As a Junior developers i can understand and maintain REST calls more easily than GraphQL queries.
 
 **Performance Note** - GraphQL would be preferred for complex scenarios requiring multiple resources simultaneously (products + inventory + pricing + fulfillment data), but this straightforward product retrieval is better served by REST.
 
@@ -300,11 +300,7 @@ for product in products:
 price = float(variant.get("price", 0))
 ```
 
-### Challenge 4: Pagination
 
-**Problem**: Large catalogs may exceed the 250-product limit per API request.
-
-**Solution**: Current implementation fetches up to 250 products. For production with larger catalogs, implement pagination using the `Link` header response or `cursor` parameter for subsequent requests.
 
 ### Assumptions Made
 
@@ -548,18 +544,3 @@ stock2shop-assessment/
 
 ---
 
-## 10. Author Notes
-
-This assessment demonstrates:
-
-✅ **Ability to read and implement API documentation** - Successfully navigated Shopify's REST API docs and implemented the products endpoint.
-
-✅ **Understanding of data structures and transformation** - Correctly identified that SKUs live on variants and transformed the hierarchical Shopify data into a flat ERP-compatible format.
-
-✅ **Clear communication of technical decisions** - Documented why REST was chosen over GraphQL and how each challenge was addressed.
-
-✅ **Practical problem-solving** - Handled edge cases like missing SKUs, price formatting, and pagination considerations.
-
-✅ **Production-ready thinking** - Included troubleshooting guide, assumptions, and notes on what would change in a production environment.
-
-The code is clean, well-commented, and maintainable for junior developers to extend or modify.
