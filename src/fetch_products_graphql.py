@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 SHOP = os.environ.get("SHOP", "").strip()
 TOKEN = os.environ.get("SHOPIFY_ADMIN_TOKEN", "").strip()
-OUTPUT_DIR = Path("../output")
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 if not SHOP or not TOKEN:

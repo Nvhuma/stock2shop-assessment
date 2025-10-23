@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 Transform raw Shopify product data into structured formats for ERP import.

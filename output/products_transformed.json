@@ -1,0 +1,101 @@
+[
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025791782,
+    "sku": "FWSNK-6-BLK",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025824550,
+    "sku": "FWSNK-6-WHT",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025857318,
+    "sku": "FWSNK-7-BLK",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025890086,
+    "sku": "FWSNK-7-WHT",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025922854,
+    "sku": "FWSNK-8-BLK",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025955622,
+    "sku": "FWSNK-8-WHT",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570025988390,
+    "sku": "FWSNK-9-BLK",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570026021158,
+    "sku": "FWSNK-9-WHT",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570026053926,
+    "sku": "FWSNK-10-BLK",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165717798,
+    "title": "Classic Leather Sneaker",
+    "variant_id": 51570026086694,
+    "sku": "FWSNK-10-WHT",
+    "price": "1299.00",
+    "inventory_quantity": 5,
+    "created_at": "2025-10-17T09:16:10-04:00"
+  },
+  {
+    "product_id": 10281165750566,
+    "title": "Leather Wallet",
+    "variant_id": 51570026119462,
+    "sku": "FWWAL-BRN",
+    "price": "699.00",
+    "inventory_quantity": 12,
+    "created_at": "2025-10-17T09:16:12-04:00"
+  }
+]

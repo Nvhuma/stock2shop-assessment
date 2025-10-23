@@ -1,0 +1,87 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/10281165717798",
+            "title": "Classic Leather Sneaker",
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570025791782",
+                    "sku": "FWSNK-6-BLK",
+                    "price": "1299.00",
+                    "inventoryQuantity": 5
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570025824550",
+                    "sku": "FWSNK-6-WHT",
+                    "price": "1299.00",
+                    "inventoryQuantity": 5
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570025857318",
+                    "sku": "FWSNK-7-BLK",
+                    "price": "1299.00",
+                    "inventoryQuantity": 5
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570025890086",
+                    "sku": "FWSNK-7-WHT",
+                    "price": "1299.00",
+                    "inventoryQuantity": 5
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570025922854",
+                    "sku": "FWSNK-8-BLK",
+                    "price": "1299.00",
+                    "inventoryQuantity": 5
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10281165750566",
+            "title": "Leather Wallet",
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51570026119462",
+                    "sku": "FWWAL-BRN",
+                    "price": "699.00",
+                    "inventoryQuantity": 12
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 26,
+      "actualQueryCost": 6,
+      "throttleStatus": {
+        "maximumAvailable": 2000.0,
+        "currentlyAvailable": 1994,
+        "restoreRate": 100.0
+      }
+    }
+  }
+}

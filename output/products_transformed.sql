@@ -1,0 +1,11 @@
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025791782, 'Classic Leather Sneaker', 'FWSNK-6-BLK', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025824550, 'Classic Leather Sneaker', 'FWSNK-6-WHT', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025857318, 'Classic Leather Sneaker', 'FWSNK-7-BLK', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025890086, 'Classic Leather Sneaker', 'FWSNK-7-WHT', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025922854, 'Classic Leather Sneaker', 'FWSNK-8-BLK', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025955622, 'Classic Leather Sneaker', 'FWSNK-8-WHT', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570025988390, 'Classic Leather Sneaker', 'FWSNK-9-BLK', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570026021158, 'Classic Leather Sneaker', 'FWSNK-9-WHT', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570026053926, 'Classic Leather Sneaker', 'FWSNK-10-BLK', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165717798, 51570026086694, 'Classic Leather Sneaker', 'FWSNK-10-WHT', 1299.00, 5);
+INSERT INTO products_erp (product_id, variant_id, title, sku, price, inventory_quantity) VALUES (10281165750566, 51570026119462, 'Leather Wallet', 'FWWAL-BRN', 699.00, 12);

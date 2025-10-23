@@ -25,7 +25,7 @@ if not SHOP or not TOKEN:
     sys.exit(1)
 
 # Output directory
-OUTPUT_DIR = Path("../output")
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # REST endpoint
